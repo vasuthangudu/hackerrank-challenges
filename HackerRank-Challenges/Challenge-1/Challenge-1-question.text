@@ -1,0 +1,21 @@
+Implement a program to extract last three digits numbers from the given four digit number and calcualte sum of those three digits numbers.
+
+Input Format
+
+input -----> a four digit integer number as input
+output ----> sum of last three digit numbers
+
+Constraints
+
+number>0
+
+Output Format
+
+output ----> sum of last three digit numbers
+
+Sample Input 0
+
+1234
+Sample Output 0
+
+9
