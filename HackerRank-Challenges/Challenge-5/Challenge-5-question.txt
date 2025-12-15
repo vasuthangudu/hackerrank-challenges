@@ -1,0 +1,20 @@
+Write a program to convert given character into ascii value
+
+Input Format
+
+character
+
+Constraints
+
+a number should be greater than zero
+
+Output Format
+
+an integer value
+
+Sample Input 0
+
+a
+Sample Output 0
+
+97
