@@ -1,0 +1,21 @@
+Implement a program that takes two inputs from the user a and b, print 'true' if one of them is 10 or if their sum is 10.
+
+Input Format
+
+a and b value
+
+Constraints
+
+number should be greater than zero
+
+Output Format
+
+true or false
+
+Sample Input 0
+
+10
+10
+Sample Output 0
+
+true

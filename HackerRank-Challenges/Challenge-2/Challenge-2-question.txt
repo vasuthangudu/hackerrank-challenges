@@ -1,0 +1,20 @@
+Implement a program to perform multiplication operation on given and next to given number.
+
+Input Format
+
+input -------> an integer value
+
+Constraints
+
+number>0
+
+Output Format
+
+multiplication of current and next number
+
+Sample Input 0
+
+2
+Sample Output 0
+
+6
