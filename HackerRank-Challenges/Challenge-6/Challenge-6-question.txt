@@ -1,0 +1,21 @@
+Given two integer values, return true if they are both in the range 30..40 inclusive, or they are both in the range 40..50 inclusive.
+
+Input Format
+
+two integer values
+
+Constraints
+
+number should be greater than zero
+
+Output Format
+
+true or false
+
+Sample Input 0
+
+31 
+33
+Sample Output 0
+
+true
