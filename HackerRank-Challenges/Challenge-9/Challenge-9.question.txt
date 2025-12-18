@@ -1,0 +1,24 @@
+Implement a program that takes two strings as inputs and print either true or false depending on whether the total number of characters in the first string is equal to the total number of characters in the second string.
+
+Input Format
+
+two strings
+
+Constraints
+
+n>0
+
+Output Format
+
+true or false
+Ex:
+test, demo ----> true
+abc, abcd -----> false
+
+Sample Input 0
+
+test
+demo
+Sample Output 0
+
+true
