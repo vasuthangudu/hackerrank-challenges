@@ -1,0 +1,20 @@
+Dennis was solving a puzle. the puzzle was to verify a number whose cube ends with the number itself. Help Dennis to find the solution of the puzzle and write the code accordingly.
+
+Input Format
+
+integer value to verified
+
+Constraints
+
+n>0
+
+Output Format
+
+boolean value True or False
+
+Sample Input 0
+
+5
+Sample Output 0
+
+true
