@@ -1,0 +1,20 @@
+Implement a program to find smallest of five numbers.
+
+Input Format
+
+five space seperated integers
+
+Constraints
+
+number should be greater than zero
+
+Output Format
+
+smallest of five integers
+
+Sample Input 0
+
+1 2 3 4 5 
+Sample Output 0
+
+1
