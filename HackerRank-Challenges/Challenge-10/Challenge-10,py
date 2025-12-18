@@ -1,0 +1,6 @@
+a=int(input())
+b=a*a*a
+if b%10 == a:
+  print("true")
+else:
+   print("false")
