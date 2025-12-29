@@ -1,0 +1,20 @@
+A duck number is a number which has zeros present in it, but no zero present in the begining of the number.
+
+Input Format
+
+a number from the user
+
+Constraints
+
+n>=0
+
+Output Format
+
+Yes or No
+
+Sample Input 0
+
+3004
+Sample Output 0
+
+Yes
