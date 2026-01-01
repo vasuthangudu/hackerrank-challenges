@@ -1,0 +1,20 @@
+Implement a program that determines whether a number is oddish or evenish, a number is oddish if the sum of all digits is odd and evenish if the sum of all digits is even. print the output as oddish or evenish.
+
+Input Format
+
+an integer value
+
+Constraints
+
+n>0
+
+Output Format
+
+oddish or evenish
+
+Sample Input 0
+
+123
+Sample Output 0
+
+evenish

@@ -1,0 +1,21 @@
+Implement a program to find number of occurrences the given digit in the number.
+
+Input Format
+
+an integer number and digit
+
+Constraints
+
+n>0
+
+Output Format
+
+number of occurrences
+
+Sample Input 0
+
+1234 
+3
+Sample Output 0
+
+1
