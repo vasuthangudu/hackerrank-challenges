@@ -1,0 +1,22 @@
+Given 3 int values, a b c, print their sum. However, if one of the values is the same as another of the values, it does not count towards the sum.
+
+Input Format
+
+a,b and c values
+
+Constraints
+
+n>0
+
+Output Format
+
+sum or 0
+
+Sample Input 0
+
+1
+2
+3
+Sample Output 0
+
+6

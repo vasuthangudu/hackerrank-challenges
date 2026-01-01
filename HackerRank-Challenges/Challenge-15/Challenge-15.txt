@@ -1,0 +1,20 @@
+Implement a program to find the max digit present in the given number.
+
+Input Format
+
+an integer value
+
+Constraints
+
+n>0
+
+Output Format
+
+max digit
+
+Sample Input 0
+
+1231
+Sample Output 0
+
+3
