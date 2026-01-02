@@ -4,7 +4,7 @@ wins get 3 points
 draws get 1 points
 losses get 0 points
 Input Format
-
+--------------
 number of wins, draws and losses
 
 Constraints
